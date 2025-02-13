@@ -1,4 +1,6 @@
 # sentiment analysis simple example using NLTK.
+# manual dataset,Text data augmentation ,TF-IDF,model logistic regression
+# good for testing data but for unseen data you can use advanced techniques.
 import random
 from numpy.lib.function_base import vectorize
 import numpy as np
